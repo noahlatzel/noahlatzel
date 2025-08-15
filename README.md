@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @noahlatzel
 - 👀 I’m interested in learning new things and writing programs that solve people's problems.
 - 🌱 I’m currently studying computer science (MSc) at the Technical University Munich and aim to pursue a career in machine learning.
-- 💼 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/latzel/)
 
 
 ### 🏆 Hackathon achievements
