@@ -20,7 +20,7 @@
 ### 💡 Personal projects
 🎰 [CSGORollHelper](https://github.com/noahlatzel/CSGORollHelper) - Leveraging positive expected value on triple green jackpots on CSGORoll.\
 🏛️ [Forex Trading AI](https://github.com/noahlatzel/forex-trading-ai) - Trading on the US-EUR exchange on the forex market using machine learning. (🔒)\
-🍔 [McData](https://github.com/noahlatzel/McData) - Scraping the McDonald's API and visualize product prices in different regions in Germany. (🔒)\
+🍔 [McData](https://github.com/noahlatzel/McData) - Scraping the McDonald's API and visualize product prices all over Germany. (🔒)\
 📖 [StudyDrive Karma Farmer](https://github.com/noahlatzel/studydrive-karma-farmer) - Automatically farm karma on StudyDrive. 
 
 ### 
