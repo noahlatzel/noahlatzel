@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @noahlatzel
 - 👀 I’m interested in learning new things and writing programs that solve people's problems.
 - 🌱 I’m currently studying computer science (MSc) at the Technical University Munich and aim to pursue a career in machine learning.
+- 💼 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/latzel/)
 
 
-### 🏆  Hackathon achievements
+### 🏆 Hackathon achievements
 🤖 [[Winner] hackaTUM 2024 | JetSetters x Solanswer](https://github.com/shumancheng/JetSetters) - A tool to empower developers in niche ecosystems like the Solana blockchain, where traditional AI tools often fall short.\
 🌾 [START HACK 2024 | Farmers Co-Pilot](https://github.com/noahlatzel/start-hack24) - Harvest the Future: Aiding Sustainability, Simplifying Farming.\
 ⛷️ [[Winner] ideaHack 2022 | outdoor-insights](https://github.com/Mahir-Isikli/outdoor-insights) - Force-sensor-enabled smart insole for ski shoes enabling anyone to utilize a data-driven performance coaching system
@@ -17,7 +18,7 @@
 🛒 [Shopping Platform](https://github.com/noahlatzel/sopra2122) - Mandatory software project during my Bachelor's.
 
 
-### 🏆  Personal projects
+### 💡 Personal projects
 🎰 [CSGORollHelper](https://github.com/noahlatzel/CSGORollHelper) - Leveraging positive expected value on triple green jackpots on CSGORoll.\
 🏛️ [Forex Trading AI](https://github.com/noahlatzel/forex-trading-ai) - Trading on the US-EUR exchange on the forex market using machine learning. (🔒)\
 🍔 [McData](https://github.com/noahlatzel/McData) - Scraping the McDonald's API and visualize product prices in different regions in Germany. (🔒)
