@@ -21,7 +21,7 @@
 🎰 [CSGORollHelper](https://github.com/noahlatzel/CSGORollHelper) - Leveraging positive expected value on triple green jackpots on CSGORoll.\
 🏛️ [Forex Trading AI](https://github.com/noahlatzel/forex-trading-ai) - Trading on the US-EUR exchange on the forex market using machine learning. (🔒)\
 🍔 [McData](https://github.com/noahlatzel/McData) - Scraping the McDonald's API and visualizing product prices all over Germany. (🔒)\
-📖 [StudyDrive Karma Farmer](https://github.com/noahlatzel/studydrive-karma-farmer) - Automatically farm karma on StudyDrive. 
+📖 [StudyDrive Karma Farmer](https://github.com/noahlatzel/studydrive-karma-farmer) - Automatically farm karma on StudyDrive.\
 💰 [Scalping Utilities](https://github.com/noahlatzel/scalping-utilities) - Automatically buy GPUs, PlayStation 5's etc. from Amazon, get updated scalping prices on eBay and monitor Discord server for new stock on Amazon (10k$ profit).
 
 ### 
