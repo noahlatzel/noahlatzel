@@ -14,7 +14,7 @@
 🤖 [TUM AI Tutor](https://github.com/SimonBless/TUM-AI-Tutor) - A personal learning assistant for every TUM student using a custom RAG system, our own Deep Research with locally hosted LLMs.\
 🛒 [Predicting Ratings using Argumentation Graphs](https://github.com/burakyuslu/predicting_ratings_using_graphs) - Extracting and analyzing data from Amazon reviews using NLP.\
 📺 [VR Immersive Volume Visualization](https://github.com/noahlatzel/pjs-ws22-immersive-volume-vis) - Visualizing and manipulating volume renderings in VR.\
-🛒 [Shopping Platform](https://github.com/noahlatzel/sopra2122) - Mandatory software project during my Bachelor's.
+🛒 [Simple Shopping Platform](https://github.com/noahlatzel/sopra2122) - Mandatory software project during my Bachelor's.
 
 
 ### 💡 Personal projects
